@@ -824,6 +824,14 @@ display:flex;
 
 /** Novidades **/
 
+.titulosn{
+  text-align: center;
+  color:rgb(213, 220, 220);;
+  background-color: #2C6386;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
 .titulos{
   text-align: center;
   margin-top: 70px;
